@@ -14,7 +14,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
 
   final List<OnboardingPageModel> pages = [
     OnboardingPageModel(
-      imagePath: 'assets/images/onboardingpic1.jpg',
+      imagePath: 'assets/images/onboardingpic1.png',
       title: 'Unlock Your Learning Potential',
       description:
           'Discover a powerful platform designed to support learners with engaging content.',
