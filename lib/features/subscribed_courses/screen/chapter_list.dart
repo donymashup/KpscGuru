@@ -1,9 +1,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:indus_app/features/subscribed_courses/screen/chapter_content.dart';
-import 'package:indus_app/features/subscribed_courses/services/user_subscriptions_services.dart';
-import 'package:indus_app/models/chapter_list_model.dart';
+import 'package:kpscguru_app/features/subscribed_courses/screen/chapter_content.dart';
+import 'package:kpscguru_app/features/subscribed_courses/services/user_subscriptions_services.dart';
+import 'package:kpscguru_app/models/chapter_list_model.dart';
 
 class ChapterList extends StatefulWidget {
   final String sublectImage;

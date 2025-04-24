@@ -3,11 +3,11 @@ import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:indus_app/constants/config.dart';
-import 'package:indus_app/constants/utils.dart';
-import 'package:indus_app/controllers/user_controller.dart';
-import 'package:indus_app/models/update_password_model.dart';
-import 'package:indus_app/models/upload_image_model.dart';
+import 'package:kpscguru_app/constants/config.dart';
+import 'package:kpscguru_app/constants/utils.dart';
+import 'package:kpscguru_app/controllers/user_controller.dart';
+import 'package:kpscguru_app/models/update_password_model.dart';
+import 'package:kpscguru_app/models/upload_image_model.dart';
 
 class ProfileService {
   final UserController userController = Get.put(UserController());

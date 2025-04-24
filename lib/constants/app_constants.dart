@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppConstant {
-  static const appName = "indus International Academy";
+  static const appName = "kpscguru International Academy";
 
    static const backgroundColor2 = Color.fromARGB(255, 250, 246, 247);
   // //static const primaryColor = Color(0xFFD70000);
@@ -15,7 +15,7 @@ class AppConstant {
 
 
 
-  // Teal color used in "INDUS"
+  // Teal color used in "kpscguru"
   static const primaryColor = Color(0xFF17A3A1); // Teal
   static final primaryColorLight = Color(0xFF17A3A1);
   //static final primaryColorLight = primaryColor.withOpacity(0.8); // Light Teal

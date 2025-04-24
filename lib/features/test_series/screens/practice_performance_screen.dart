@@ -1,6 +1,6 @@
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/constants/config.dart';
-import 'package:indus_app/controllers/user_controller.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/config.dart';
+import 'package:kpscguru_app/controllers/user_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';

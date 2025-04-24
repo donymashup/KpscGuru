@@ -2,11 +2,11 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/constants/utils.dart';
-import 'package:indus_app/features/auth/services/login_service.dart';
-import 'package:indus_app/features/profile/services/profile_service.dart';
-import 'package:indus_app/models/user_details_model.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/utils.dart';
+import 'package:kpscguru_app/features/auth/services/login_service.dart';
+import 'package:kpscguru_app/features/profile/services/profile_service.dart';
+import 'package:kpscguru_app/models/user_details_model.dart';
 
 class ProfileScreen extends StatefulWidget {
   @override

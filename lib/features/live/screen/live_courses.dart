@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:indus_app/common%20widgets/customappbar.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/drawermenu/screens/drawer.dart';
-import 'package:indus_app/features/live/widgets/live_custom_tabar.dart';
+import 'package:kpscguru_app/common%20widgets/customappbar.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/drawermenu/screens/drawer.dart';
+import 'package:kpscguru_app/features/live/widgets/live_custom_tabar.dart';
 
 class LiveClassesScreen extends StatelessWidget {
   const LiveClassesScreen({super.key});

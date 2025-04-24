@@ -1,9 +1,9 @@
 
 import 'package:flutter/material.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/test_series/screens/completed_testseries.dart';
-import 'package:indus_app/features/test_series/screens/ongoing_testseries.dart';
-import 'package:indus_app/features/test_series/screens/upcoming_testseries.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/test_series/screens/completed_testseries.dart';
+import 'package:kpscguru_app/features/test_series/screens/ongoing_testseries.dart';
+import 'package:kpscguru_app/features/test_series/screens/upcoming_testseries.dart';
 
 class TestSeriesTabBarView extends StatefulWidget {
   @override

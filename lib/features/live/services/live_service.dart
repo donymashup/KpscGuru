@@ -2,10 +2,10 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/constants/config.dart';
-import 'package:indus_app/constants/utils.dart';
-import 'package:indus_app/models/live_model.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/config.dart';
+import 'package:kpscguru_app/constants/utils.dart';
+import 'package:kpscguru_app/models/live_model.dart';
 
 class LiveService {
   Future<LiveModel?> getLiveClass({

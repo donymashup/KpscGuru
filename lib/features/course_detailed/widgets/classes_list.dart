@@ -2,9 +2,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/quiz/screen/quiz_info.dart';
-import 'package:indus_app/models/course_details_model.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/quiz/screen/quiz_info.dart';
+import 'package:kpscguru_app/models/course_details_model.dart';
 
 class ClassesList extends StatelessWidget {
   final CourseDetailsModel courseDetailsModel;

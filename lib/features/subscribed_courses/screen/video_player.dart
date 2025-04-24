@@ -1,9 +1,9 @@
 // import 'package:better_player_plus/better_player_plus.dart';
 import 'package:better_player/better_player.dart';
 import 'package:flutter/material.dart';
-import 'package:indus_app/common%20widgets/LargeLoading.dart';
-import 'package:indus_app/features/subscribed_courses/widgets/videoListCardWidget.dart';
-import 'package:indus_app/models/video_model.dart';
+import 'package:kpscguru_app/common%20widgets/LargeLoading.dart';
+import 'package:kpscguru_app/features/subscribed_courses/widgets/videoListCardWidget.dart';
+import 'package:kpscguru_app/models/video_model.dart';
 
 class VideoPlayer extends StatefulWidget {
   final VideoModel videoModel;

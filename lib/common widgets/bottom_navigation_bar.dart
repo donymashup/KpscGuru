@@ -3,12 +3,12 @@ import 'package:curved_labeled_navigation_bar/curved_navigation_bar_item.dart';
 import 'package:fluentui_system_icons/fluentui_system_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/auth/services/login_service.dart';
-import 'package:indus_app/features/home/screen/home_screen.dart';
-import 'package:indus_app/features/live/screen/live_courses.dart';
-import 'package:indus_app/features/subscribed_courses/screen/my_courses.dart';
-import 'package:indus_app/features/test_series/screens/test_series.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/auth/services/login_service.dart';
+import 'package:kpscguru_app/features/home/screen/home_screen.dart';
+import 'package:kpscguru_app/features/live/screen/live_courses.dart';
+import 'package:kpscguru_app/features/subscribed_courses/screen/my_courses.dart';
+import 'package:kpscguru_app/features/test_series/screens/test_series.dart';
 
 class CustomBottomNavigation extends StatefulWidget {
   const CustomBottomNavigation({super.key});

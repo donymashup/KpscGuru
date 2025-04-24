@@ -2,11 +2,11 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/constants/config.dart';
-import 'package:indus_app/constants/utils.dart';
-import 'package:indus_app/models/available_courses_model.dart';
-import 'package:indus_app/models/slider_images_model.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/config.dart';
+import 'package:kpscguru_app/constants/utils.dart';
+import 'package:kpscguru_app/models/available_courses_model.dart';
+import 'package:kpscguru_app/models/slider_images_model.dart';
 
 class HomeService {
   // Get available courses

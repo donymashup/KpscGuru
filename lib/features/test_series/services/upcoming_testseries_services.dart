@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
-import 'package:indus_app/constants/config.dart';
-import 'package:indus_app/models/upcoming_testseries_model.dart';
+import 'package:kpscguru_app/constants/config.dart';
+import 'package:kpscguru_app/models/upcoming_testseries_model.dart';
 
 class UpcomingTestseriesServices {
   Future<UpcomingTestsModel?> getUpcomingTests({

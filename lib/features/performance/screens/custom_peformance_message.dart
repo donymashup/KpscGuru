@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
-import 'package:indus_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
 
 class CustomPeformanceMessage extends StatelessWidget {
   const CustomPeformanceMessage({super.key});

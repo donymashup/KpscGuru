@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/controllers/is_subscribed_controller.dart';
-import 'package:indus_app/features/course_detailed/services/course_details_services.dart';
-import 'package:indus_app/features/course_detailed/widgets/classes_list.dart';
-import 'package:indus_app/features/course_detailed/widgets/enroll_button.dart';
-import 'package:indus_app/features/course_detailed/widgets/overview.dart';
-import 'package:indus_app/features/course_detailed/widgets/reviews.dart';
-import 'package:indus_app/models/course_details_model.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/controllers/is_subscribed_controller.dart';
+import 'package:kpscguru_app/features/course_detailed/services/course_details_services.dart';
+import 'package:kpscguru_app/features/course_detailed/widgets/classes_list.dart';
+import 'package:kpscguru_app/features/course_detailed/widgets/enroll_button.dart';
+import 'package:kpscguru_app/features/course_detailed/widgets/overview.dart';
+import 'package:kpscguru_app/features/course_detailed/widgets/reviews.dart';
+import 'package:kpscguru_app/models/course_details_model.dart';
 
 class AnimatedTabBarScreen extends StatefulWidget {
   final bool isSubscribed;

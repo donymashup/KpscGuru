@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:fluentui_system_icons/fluentui_system_icons.dart';
 import 'package:intl/intl.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:indus_app/features/live/services/live_service.dart';
-import 'package:indus_app/models/live_model.dart';
+import 'package:kpscguru_app/features/live/services/live_service.dart';
+import 'package:kpscguru_app/models/live_model.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class OngoingClasses extends StatefulWidget {

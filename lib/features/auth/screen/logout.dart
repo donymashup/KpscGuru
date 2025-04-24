@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:indus_app/features/auth/screen/login.dart';
+import 'package:kpscguru_app/features/auth/screen/login.dart';
 
 void showLogoutDialog(BuildContext context) {
   showDialog(
