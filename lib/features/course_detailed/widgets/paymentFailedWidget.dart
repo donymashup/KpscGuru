@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
-import 'package:indus_app/common%20widgets/bottom_navigation_bar.dart';
+import 'package:kpscguru_app/common%20widgets/bottom_navigation_bar.dart';
 
 class PaymentFailed extends StatelessWidget {
   const PaymentFailed({Key? key}) : super(key: key);

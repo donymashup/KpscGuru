@@ -2,7 +2,7 @@ import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import 'dart:math';
 
-import 'package:indus_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
 
 class StudentPerformanceIndex extends StatefulWidget {
   const StudentPerformanceIndex({super.key});

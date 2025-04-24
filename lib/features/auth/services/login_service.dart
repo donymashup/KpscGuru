@@ -3,15 +3,15 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/constants/config.dart';
-import 'package:indus_app/controllers/user_controller.dart';
-import 'package:indus_app/features/auth/screen/login.dart';
-import 'package:indus_app/models/common_model.dart';
-import 'package:indus_app/models/login_model.dart';
-import 'package:indus_app/models/otp_model.dart';
-import 'package:indus_app/models/registerUserModel.dart';
-import 'package:indus_app/models/user_details_model.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/config.dart';
+import 'package:kpscguru_app/controllers/user_controller.dart';
+import 'package:kpscguru_app/features/auth/screen/login.dart';
+import 'package:kpscguru_app/models/common_model.dart';
+import 'package:kpscguru_app/models/login_model.dart';
+import 'package:kpscguru_app/models/otp_model.dart';
+import 'package:kpscguru_app/models/registerUserModel.dart';
+import 'package:kpscguru_app/models/user_details_model.dart';
 
 class AuthService {
   // Login user

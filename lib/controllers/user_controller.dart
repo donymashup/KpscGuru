@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:indus_app/models/user_details_model.dart';
+import 'package:kpscguru_app/models/user_details_model.dart';
 
 class UserController extends GetxController {
   var username = 'User'.obs;

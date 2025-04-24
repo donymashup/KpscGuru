@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:indus_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
 
 class CustomElavatedButton extends StatelessWidget {
  final Widget child;

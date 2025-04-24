@@ -1,12 +1,12 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:indus_app/common%20widgets/customappbar.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/drawermenu/screens/drawer.dart';
-import 'package:indus_app/features/subscribed_courses/screen/class_list.dart';
-import 'package:indus_app/features/subscribed_courses/services/user_subscriptions_services.dart';
-import 'package:indus_app/models/user_subscriptions_model.dart';
+import 'package:kpscguru_app/common%20widgets/customappbar.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/drawermenu/screens/drawer.dart';
+import 'package:kpscguru_app/features/subscribed_courses/screen/class_list.dart';
+import 'package:kpscguru_app/features/subscribed_courses/services/user_subscriptions_services.dart';
+import 'package:kpscguru_app/models/user_subscriptions_model.dart';
 
 class MyCourses extends StatefulWidget {
   const MyCourses({super.key});

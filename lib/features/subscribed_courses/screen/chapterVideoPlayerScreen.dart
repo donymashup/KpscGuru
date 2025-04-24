@@ -4,11 +4,11 @@ import 'package:better_player/better_player.dart';
 //import 'package:better_player_enhanced/better_player.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:indus_app/common%20widgets/LargeLoading.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/subscribed_courses/services/user_subscriptions_services.dart';
-import 'package:indus_app/features/subscribed_courses/widgets/videoListCardWidget.dart';
-import 'package:indus_app/models/video_model.dart';
+import 'package:kpscguru_app/common%20widgets/LargeLoading.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/subscribed_courses/services/user_subscriptions_services.dart';
+import 'package:kpscguru_app/features/subscribed_courses/widgets/videoListCardWidget.dart';
+import 'package:kpscguru_app/models/video_model.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class ChapterVideoPlayerScreen extends StatefulWidget {

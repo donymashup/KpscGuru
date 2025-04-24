@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:indus_app/common%20widgets/color_dot.dart';
-import 'package:indus_app/constants/app_constants.dart';
+import 'package:kpscguru_app/common%20widgets/color_dot.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
 
 class WelcomePage extends StatefulWidget {
   final int currentIndex;
@@ -93,7 +93,7 @@ class _WelcomePageState extends State<WelcomePage> {
                   ),
                   const SizedBox(height: 20.0),
                   const Text(
-                    'Welcome To indus International Academy',
+                    'Welcome To kpscguru International Academy',
                     style: TextStyle(
                       fontSize: 24.0,
                       fontWeight: FontWeight.bold,
@@ -104,7 +104,7 @@ class _WelcomePageState extends State<WelcomePage> {
                   const Padding(
                     padding: EdgeInsets.symmetric(horizontal: 30.0),
                     child: Text(
-                      'Learn something new every day. Start your learning journey with indus International Academy.',
+                      'Learn something new every day. Start your learning journey with kpscguru International Academy.',
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         fontSize: 16.0,

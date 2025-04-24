@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/test_series/screens/main_performance_screen.dart';
-import 'package:indus_app/features/test_series/services/completed_testseries_services.dart';
-import 'package:indus_app/models/completed_testseries_model.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/test_series/screens/main_performance_screen.dart';
+import 'package:kpscguru_app/features/test_series/services/completed_testseries_services.dart';
+import 'package:kpscguru_app/models/completed_testseries_model.dart';
 
 class CompletedTestSeriesScreen extends StatefulWidget {
   @override

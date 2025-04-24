@@ -1,13 +1,13 @@
 import 'package:fluentui_system_icons/fluentui_system_icons.dart';
 import 'package:flutter/material.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/constants/config.dart';
-import 'package:indus_app/features/auth/screen/logout.dart';
-import 'package:indus_app/features/drawermenu/screens/aboutus.dart';
-import 'package:indus_app/features/drawermenu/screens/calendar_schedule_page.dart';
-import 'package:indus_app/features/drawermenu/screens/privacypolicy.dart';
-import 'package:indus_app/features/drawermenu/screens/terms&conditions.dart';
-import 'package:indus_app/features/performance/screens/custom_peformance_message.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/config.dart';
+import 'package:kpscguru_app/features/auth/screen/logout.dart';
+import 'package:kpscguru_app/features/drawermenu/screens/aboutus.dart';
+import 'package:kpscguru_app/features/drawermenu/screens/calendar_schedule_page.dart';
+import 'package:kpscguru_app/features/drawermenu/screens/privacypolicy.dart';
+import 'package:kpscguru_app/features/drawermenu/screens/terms&conditions.dart';
+import 'package:kpscguru_app/features/performance/screens/custom_peformance_message.dart';
 
 class DrawerScreen extends StatelessWidget {
   const DrawerScreen({super.key});

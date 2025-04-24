@@ -4,17 +4,17 @@ import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:lottie/lottie.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:indus_app/common%20widgets/customappbar.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/controllers/selected_course_controller.dart';
-import 'package:indus_app/controllers/user_controller.dart';
-import 'package:indus_app/features/course_detailed/screens/course_detail.dart';
-import 'package:indus_app/features/drawermenu/screens/drawer.dart';
-import 'package:indus_app/features/home/services/home_service.dart';
-import 'package:indus_app/features/home/widgets/carousel.dart';
-import 'package:indus_app/features/home/widgets/search_field.dart';
-import 'package:indus_app/features/subscribed_courses/screen/class_list.dart';
-import 'package:indus_app/models/available_courses_model.dart';
+import 'package:kpscguru_app/common%20widgets/customappbar.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/controllers/selected_course_controller.dart';
+import 'package:kpscguru_app/controllers/user_controller.dart';
+import 'package:kpscguru_app/features/course_detailed/screens/course_detail.dart';
+import 'package:kpscguru_app/features/drawermenu/screens/drawer.dart';
+import 'package:kpscguru_app/features/home/services/home_service.dart';
+import 'package:kpscguru_app/features/home/widgets/carousel.dart';
+import 'package:kpscguru_app/features/home/widgets/search_field.dart';
+import 'package:kpscguru_app/features/subscribed_courses/screen/class_list.dart';
+import 'package:kpscguru_app/models/available_courses_model.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

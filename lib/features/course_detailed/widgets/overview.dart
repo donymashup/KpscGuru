@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_widget_from_html/flutter_widget_from_html.dart';
-import 'package:indus_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
 
 class OverviewTab extends StatelessWidget {
   final String description;

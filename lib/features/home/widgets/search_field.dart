@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/chat_gpt/chatGpt.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/chat_gpt/chatGpt.dart';
 
 class SearchField extends StatelessWidget {
   const SearchField({Key? key}) : super(key: key);
@@ -38,7 +38,7 @@ class SearchField extends StatelessWidget {
                   padding:
                       const EdgeInsets.all(8.0), // Add padding for alignment
                   child: Image.asset(
-                    'assets/icons/induschatbox.png',
+                    'assets/icons/kpscguruchatbox.png',
                     height: 26,
                     width: 26,
                   ),

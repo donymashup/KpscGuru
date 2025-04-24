@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:indus_app/features/home/services/home_service.dart';
-import 'package:indus_app/models/available_courses_model.dart';
+import 'package:kpscguru_app/features/home/services/home_service.dart';
+import 'package:kpscguru_app/models/available_courses_model.dart';
 import '../../../common widgets/loadingIndicator.dart';
 
 class HeaderList extends StatefulWidget {

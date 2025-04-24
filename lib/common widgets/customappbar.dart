@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/controllers/user_controller.dart';
-import 'package:indus_app/features/home/widgets/custom_Image_Button.dart';
-import 'package:indus_app/features/notification/screen/notifications.dart';
-import 'package:indus_app/features/profile/screen/my_profile.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/controllers/user_controller.dart';
+import 'package:kpscguru_app/features/home/widgets/custom_Image_Button.dart';
+import 'package:kpscguru_app/features/notification/screen/notifications.dart';
+import 'package:kpscguru_app/features/profile/screen/my_profile.dart';
 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   final String appbarTitle;
@@ -28,6 +28,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
         Padding(
           padding: const EdgeInsets.only(right: 10.0),
           child: Image.asset(
+
             'assets/images/pscgurulogoappbar.png',
             height: 70,
             width: 70,

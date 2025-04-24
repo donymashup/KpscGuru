@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:syncfusion_flutter_pdfviewer/pdfviewer.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/subscribed_courses/services/user_subscriptions_services.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/subscribed_courses/services/user_subscriptions_services.dart';
 
 class PDFViewerPage extends StatefulWidget {
   final String pdfId;

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:intl_phone_field/intl_phone_field.dart';
-import 'package:indus_app/common%20widgets/bottom_navigation_bar.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/auth/screen/registration.dart';
-import 'package:indus_app/features/auth/services/login_service.dart';
-import 'package:indus_app/features/auth/widgets/custom_elavatedbutton.dart';
-import 'package:indus_app/features/auth/widgets/custom_textfield.dart';
+import 'package:kpscguru_app/common%20widgets/bottom_navigation_bar.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/auth/screen/registration.dart';
+import 'package:kpscguru_app/features/auth/services/login_service.dart';
+import 'package:kpscguru_app/features/auth/widgets/custom_elavatedbutton.dart';
+import 'package:kpscguru_app/features/auth/widgets/custom_textfield.dart';
 import 'package:lottie/lottie.dart'; // Add this import
 
 class Login extends StatefulWidget {

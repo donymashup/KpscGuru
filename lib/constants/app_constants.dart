@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppConstant {
-  static const appName = "indus International Academy";
+  static const appName = "kpscguru International Academy";
 
    static const backgroundColor2 = Color.fromARGB(255, 250, 246, 247);
   // //static const primaryColor = Color(0xFFD70000);

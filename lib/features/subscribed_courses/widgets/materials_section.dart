@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:indus_app/features/subscribed_courses/screen/pdfview_screen.dart';
-import 'package:indus_app/models/material_model.dart';
+import 'package:kpscguru_app/features/subscribed_courses/screen/pdfview_screen.dart';
+import 'package:kpscguru_app/models/material_model.dart';
 
 class MaterialsSectionWidget extends StatelessWidget {
   final IconData icon;
