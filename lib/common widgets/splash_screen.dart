@@ -29,7 +29,7 @@ class _SplashScreenState extends State<SplashScreen> {
       backgroundColor: AppConstant.cardBackground, // Use AppConstant for background color
       body: Center(
         child: Image.asset(
-          'assets/images/induslogo.png',
+          'assets/images/kpscgurulogo.jpg',
           width: 250, // Set the desired width
           height: 250, // Set the desired height
         ),
