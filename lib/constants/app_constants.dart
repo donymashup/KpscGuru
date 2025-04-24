@@ -16,13 +16,15 @@ class AppConstant {
 
 
   // Teal color used in "INDUS"
-  static const primaryColor = Color(0xFF17A3A1); // Teal
+  static const primaryColor = Color(0xFF17A3A1); // Yellow
   static final primaryColorLight = Color(0xFF17A3A1);
   //static final primaryColorLight = primaryColor.withOpacity(0.8); // Light Teal
+//0xFFFFCC45
 
+//0xFF17A3A1
 // Gray color used in "EDUCATION"
-  static const secondaryColor = Color(0xFF6E6E71); // Gray
-  static final secondaryColorLight = Color(0xFF6E6E71);
+  static const secondaryColor = Color(0xFFFFCC45);
+  static final secondaryColorLight = Color(0xFFFFCC45);
   //static final secondaryColorLight = secondaryColor.withOpacity(0.7); // Light Gray
 
   static const lightGradient = Color.fromARGB(255, 214, 63, 69);
