@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/constants/config.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/config.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 class TermsPage extends StatelessWidget {

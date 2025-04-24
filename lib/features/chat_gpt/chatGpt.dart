@@ -5,8 +5,8 @@ import 'package:dash_chat_2/dash_chat_2.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/controllers/user_controller.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/controllers/user_controller.dart';
 
 class ChatGptScreen extends StatefulWidget {
   final UserController userController;
@@ -33,7 +33,7 @@ class _ChatGptScreenState extends State<ChatGptScreen> {
 
   final ChatUser _gptChatUser = ChatUser(
     id: '2',
-    firstName: 'indus',
+    firstName: 'kpscguru',
     lastName: 'Academy',
   );
 
@@ -52,7 +52,7 @@ class _ChatGptScreenState extends State<ChatGptScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Indus Chatbot',
+          'kpscguru Chatbot',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         leading: IconButton(

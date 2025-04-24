@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:swipeable_button_view/swipeable_button_view.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/auth/screen/login.dart'; // Adjust this import as needed
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/auth/screen/login.dart'; // Adjust this import as needed
 
 class OnboardingScreen extends StatefulWidget {
   @override

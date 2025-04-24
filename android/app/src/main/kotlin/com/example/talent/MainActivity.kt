@@ -1,4 +1,4 @@
-package com.example.indus
+package com.example.kpscguru
 
 import io.flutter.embedding.android.FlutterFragmentActivity
 

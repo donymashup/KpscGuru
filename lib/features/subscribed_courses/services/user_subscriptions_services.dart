@@ -2,17 +2,17 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:indus_app/constants/config.dart';
-import 'package:indus_app/constants/utils.dart';
-import 'package:indus_app/models/chapter_list_model.dart';
-import 'package:indus_app/models/classs_list_model.dart';
-import 'package:indus_app/models/common_model.dart';
-import 'package:indus_app/models/material_model.dart';
-import 'package:indus_app/models/miscellaneous_folder_model.dart';
-import 'package:indus_app/models/practice_test_model.dart';
-import 'package:indus_app/models/subject_list_model.dart';
-import 'package:indus_app/models/user_subscriptions_model.dart';
-import 'package:indus_app/models/video_model.dart';
+import 'package:kpscguru_app/constants/config.dart';
+import 'package:kpscguru_app/constants/utils.dart';
+import 'package:kpscguru_app/models/chapter_list_model.dart';
+import 'package:kpscguru_app/models/classs_list_model.dart';
+import 'package:kpscguru_app/models/common_model.dart';
+import 'package:kpscguru_app/models/material_model.dart';
+import 'package:kpscguru_app/models/miscellaneous_folder_model.dart';
+import 'package:kpscguru_app/models/practice_test_model.dart';
+import 'package:kpscguru_app/models/subject_list_model.dart';
+import 'package:kpscguru_app/models/user_subscriptions_model.dart';
+import 'package:kpscguru_app/models/video_model.dart';
 
 class UserSubscriptionsServices {
   Future<UserSubscriptionsModel?> getUserSubscriptions({

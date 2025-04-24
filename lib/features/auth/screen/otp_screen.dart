@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:pinput/pinput.dart';
-import 'package:indus_app/common%20widgets/bottom_navigation_bar.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/auth/widgets/custom_elavatedbutton.dart';
+import 'package:kpscguru_app/common%20widgets/bottom_navigation_bar.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/auth/widgets/custom_elavatedbutton.dart';
 
 class OtpScreen extends StatefulWidget {
   @override

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:indus_app/features/test_series/screens/attent_practice_test_screen.dart';
-import 'package:indus_app/models/practice_test_model.dart';
+import 'package:kpscguru_app/features/test_series/screens/attent_practice_test_screen.dart';
+import 'package:kpscguru_app/models/practice_test_model.dart';
 
 class PracticeTestSection extends StatelessWidget {
   final IconData icon;

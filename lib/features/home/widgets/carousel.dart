@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/home/services/home_service.dart';
-import 'package:indus_app/models/slider_images_model.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/home/services/home_service.dart';
+import 'package:kpscguru_app/models/slider_images_model.dart';
 
 class CarouselImage extends StatefulWidget {
   const CarouselImage({super.key});

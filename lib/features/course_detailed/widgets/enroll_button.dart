@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:swipeable_button_view/swipeable_button_view.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/course_detailed/screens/checkout_screen.dart';
-import 'package:indus_app/models/course_details_model.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/course_detailed/screens/checkout_screen.dart';
+import 'package:kpscguru_app/models/course_details_model.dart';
 
 class EnrollButton extends StatefulWidget {
   final CourseDetailsModel courseDetailsModel;

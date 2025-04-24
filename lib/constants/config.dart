@@ -3,7 +3,7 @@ const webUrl = 'https://talentonline.in/';
 //const baseUrl = 'https://demo.etcweb.in/api/';
 const baseUrl = 'https://talentonline.in/api/';
 //const baseUrl = 'https://alphaacademyonline.in/api/';
-//const baseUrl = 'https://indusedu.etcweb.in/api/';
+//const baseUrl = 'https://kpscguruedu.etcweb.in/api/';
 const loginUrl = 'userlogin';
 const userDetailsUrl = 'getUserDetails';
 const availableCourseUrl = 'getAvailableCourses';
@@ -47,5 +47,5 @@ const String printReport = "${baseUrl}printReport";
 const String attendMainTest = "${baseUrl}testseries";
 const String attendPracticeTest = "${baseUrl}practiceexam";
 
-const String email_id = 'indusgroup.in@gmail.com';
+const String email_id = 'kpscgurugroup.in@gmail.com';
 const String phone_no = '+91 9544600224';

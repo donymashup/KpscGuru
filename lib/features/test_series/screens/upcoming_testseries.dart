@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/test_series/services/upcoming_testseries_services.dart';
-import 'package:indus_app/models/upcoming_testseries_model.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/test_series/services/upcoming_testseries_services.dart';
+import 'package:kpscguru_app/models/upcoming_testseries_model.dart';
 
 class UpcomingTestSeriesScreen extends StatefulWidget {
   @override

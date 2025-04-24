@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:indus_app/features/auth/widgets/edit_pen.dart';
+import 'package:kpscguru_app/features/auth/widgets/edit_pen.dart';
 
 class profile extends StatelessWidget {
   const profile({

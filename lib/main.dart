@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter_tex/flutter_tex.dart';
-import 'package:indus_app/bindings/app_bindings.dart';
-import 'package:indus_app/common%20widgets/bottom_navigation_bar.dart';
-import 'package:indus_app/common%20widgets/splash_screen.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/constants/app_key_services.dart';
+import 'package:kpscguru_app/bindings/app_bindings.dart';
+import 'package:kpscguru_app/common%20widgets/bottom_navigation_bar.dart';
+import 'package:kpscguru_app/common%20widgets/splash_screen.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/constants/app_key_services.dart';
 // import 'package:tpstreams_player_sdk/tpstreams_player_sdk.dart';
 
 void main() async {

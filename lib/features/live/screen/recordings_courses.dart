@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:fluentui_system_icons/fluentui_system_icons.dart';
 import 'package:intl/intl.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/live/services/live_service.dart';
-import 'package:indus_app/features/live/widgets/calender.dart';
-import 'package:indus_app/models/live_model.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/live/services/live_service.dart';
+import 'package:kpscguru_app/features/live/widgets/calender.dart';
+import 'package:kpscguru_app/models/live_model.dart';
 
 class RecordingsCourses extends StatefulWidget {
   const RecordingsCourses({super.key});

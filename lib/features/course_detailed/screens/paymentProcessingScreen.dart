@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:indus_app/constants/app_constants.dart';
-import 'package:indus_app/features/course_detailed/services/course_details_services.dart';
-import 'package:indus_app/features/course_detailed/widgets/paymentFailedWidget.dart';
+import 'package:kpscguru_app/constants/app_constants.dart';
+import 'package:kpscguru_app/features/course_detailed/services/course_details_services.dart';
+import 'package:kpscguru_app/features/course_detailed/widgets/paymentFailedWidget.dart';
 import '../widgets/paymentSuccessfull.dart';
 import '../widgets/processingPayment.dart';
 
