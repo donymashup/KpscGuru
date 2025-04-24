@@ -26,10 +26,10 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: AppConstant.cardBackground, // Use AppConstant for background color
+      backgroundColor: Color(0xFFFFCC45), // Use AppConstant for background color
       body: Center(
         child: Image.asset(
-          'assets/images/kpscgurulogo.png',
+          'assets/images/kpscgurulogo.jpg',
           width: 250, // Set the desired width
           height: 250, // Set the desired height
         ),

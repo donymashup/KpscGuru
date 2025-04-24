@@ -88,12 +88,12 @@ class DrawerScreen extends StatelessWidget {
           padding: EdgeInsets.zero,
           children: <Widget>[
             DrawerHeader(
-              decoration: BoxDecoration(color: AppConstant.cardBackground),
+              decoration: BoxDecoration(color: Color(0xFFFFCC45)),
               child: Center(
                 child: Image.asset(
-                  'assets/images/kpscgurulogo.png',
-                  height: 170,
-                  width: 170,
+                  'assets/images/kpscgurulogo.jpg',
+                  height: 200,
+                  width: 200,
                 ),
               ),
             ),
